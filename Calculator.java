@@ -11,7 +11,8 @@ import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 
 //calculator made with swing library with the help of a video tutorial.
-// to be improved. It crashes too easily and 
+// It crashes easily and you can on only operate with 2 numbers 
+
 public class Calculator {
 
 	private JFrame frame;
